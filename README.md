@@ -1,4 +1,4 @@
-# ubuntu-vm-boilerplate
+# debian-vm-boilerplate
 
 A simple bash script to handle boilerplate configurations for cloned Ubuntu VMs (Machine ID, SSH server keys, Hostname)
 
